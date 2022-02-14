@@ -1,6 +1,5 @@
 # WILD.AI
-Frontend for WILD.AI UNIFI's project. 
-The concept of camera trapping as an ecological investigastion system is as follows: every year you have a grid of cameras that take photos automatically using sensors. The collection and identification of these photos allows ecological analysis to biology researchers. More details on:
+WILD.AI UNIFI's project is based on the concept of camera trapping as an ecological investigastion system: every year you have a grid of cameras that take photos automatically using sensors. The collection and identification of these photos allows ecological analysis to biology researchers. More details on:
 https://www.micc.unifi.it/seidenari/project/wild.ai/
 
 # Overview

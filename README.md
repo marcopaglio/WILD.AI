@@ -3,8 +3,8 @@ WILD.AI UNIFI's project is based on the concept of camera trapping as an ecologi
 https://www.micc.unifi.it/seidenari/project/wild.ai/
 
 # Overview
-This project aims to design a frontend user interface for the WILD.AI application using Human-Computer Interaction (HCI) principles. \n
-The UI has to collect lots of informations and present them in a way that is appropriate and has a good form for the scenario and the personas. \n
+This project aims to design a frontend user interface for the WILD.AI application using Human-Computer Interaction (HCI) principles.
+The UI has to collect lots of informations and present them in a way that is appropriate and has a good form for the scenario and the personas.
 The UI must be a Web application built through an asynchronous and reactive framework.
 
 Actually, WILD.AI interface is a simply extention of backend that implements the main use cases:
